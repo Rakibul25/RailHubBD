@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/homeicon"
+        android:title="Home"/>
+    <item
+        android:id="@+id/search"
+        android:enabled="true"
+        android:icon="@drawable/searchicon"
+        android:title="Search"/>
+    <item
+        android:id="@+id/update"
+        android:enabled="true"
+        android:icon="@drawable/updateicon"
+        android:title="Update"/>
+</menu>

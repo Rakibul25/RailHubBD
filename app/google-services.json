@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "291150445592",
+    "firebase_url": "https://railhub-bd.firebaseio.com",
+    "project_id": "railhub-bd",
+    "storage_bucket": "railhub-bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291150445592:android:74b2ee72b362a973c6576d",
+        "android_client_info": {
+          "package_name": "com.example.railhubbd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291150445592-dvh5upkb8g9upd1s769jbo2cerkk27e5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.railhubbd",
+            "certificate_hash": "21e20af0bdfc9327a3ffcf41a9ef646eb96598c5"
+          }
+        },
+        {
+          "client_id": "291150445592-pmgcf7picgm8ahusnkcq6f4fq5ds9otp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Fyy6zJVi4h1TNx-55fWqQy1tBipAYbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291150445592-pmgcf7picgm8ahusnkcq6f4fq5ds9otp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
